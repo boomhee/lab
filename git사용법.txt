@@ -1,0 +1,8 @@
+git remote add origin 링크
+-폴더를 레파지토리에 연결
+git add -A
+-전체 추가하기
+git status
+-committed 확인하기
+git add '파일'
+-파일 추가하기
